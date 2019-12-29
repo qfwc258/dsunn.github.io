@@ -1,0 +1,1112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" generator-info-url="http://www.MarvelIPTV.com">
+  <channel id="5 Star Max - Eastern-US">
+    <display-name lang="en">5 Star Max - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/5max.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="A and E US - Eastern Feed-US">
+    <display-name lang="en">A and E US - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/aande.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="AFN spectrum-US">
+    <display-name lang="en">AFN spectrum-US</display-name>
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="AFN sports2-US">
+    <display-name lang="en">AFN sports2-US</display-name>
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="AFN sports-US">
+    <display-name lang="en">AFN sports-US</display-name>
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="AFN family,AFN pulse-US">
+    <display-name lang="en">AFN family,AFN pulse-US</display-name>
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="CNBC USA-US">
+    <display-name lang="en">CNBC USA-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/cnbc.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="CNN-US">
+    <display-name lang="en">CNN-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/cnn.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="CBS HD New York-US">
+    <display-name lang="en">CBS HD New York-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/cbs.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="CBS Sports Network USA-US">
+    <display-name lang="en">CBS Sports Network USA-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/cbs_sports_network.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Comedy Central (US) - Eastern Feed-US">
+    <display-name lang="en">Comedy Central (US) - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/comedycentral.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="The Cooking Channel-US">
+    <display-name lang="en">The Cooking Channel-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/cooking_channel.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Cartoon Network USA - Eastern Feed-US">
+    <display-name lang="en">Cartoon Network USA - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/cartoonnetwork.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Cinemax - Eastern Feed-US">
+    <display-name lang="en">Cinemax - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/cinemax.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Daystar  - Network-US">
+    <display-name lang="en">Daystar  - Network-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/daystar_tv.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Disney Junior USA - East-US">
+    <display-name lang="en">Disney Junior USA - East-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/disney_junior.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Disney XD USA - Eastern Feed-US">
+    <display-name lang="en">Disney XD USA - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/disneyxd.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="E! Entertainment USA - Eastern Feed-US">
+    <display-name lang="en">E! Entertainment USA - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/eentertain.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="El Rey Network-US">
+    <display-name lang="en">El Rey Network-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/el-ray-network.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="ESPN-US">
+    <display-name lang="en">ESPN-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/espn.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="ESPN U-US">
+    <display-name lang="en">ESPN U-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/espnu.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="ESPN News-US">
+    <display-name lang="en">ESPN News-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/espnews.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="FOX 43 Harrisburg PA-US">
+    <display-name lang="en">FOX 43 Harrisburg PA-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/foxcable.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="FX Networks East Coast-US">
+    <display-name lang="en">FX Networks East Coast-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fx_logo.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Grit Network-US">
+    <display-name lang="en">Grit Network-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/grittv.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Food Network USA - Eastern Feed-US">
+    <display-name lang="en">Food Network USA - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/foodtv.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="FOX Soccer Plus-US">
+    <display-name lang="en">FOX Soccer Plus-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fsplus.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox Sports 1-US">
+    <display-name lang="en">Fox Sports 1-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fs1.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox Sports 2-US">
+    <display-name lang="en">Fox Sports 2-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/foxsports2.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox Sports San Diego-US">
+    <display-name lang="en">Fox Sports San Diego-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fsn.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Freeform - East Feed-US">
+    <display-name lang="en">Freeform - East Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/freeform18.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Golf Channel USA-US">
+    <display-name lang="en">Golf Channel USA-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/golf.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="HBO 2 - Eastern Feed-US">
+    <display-name lang="en">HBO 2 - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/hbo2.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="HBO Comedy - East-US">
+    <display-name lang="en">HBO Comedy - East-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/hbo-comedy.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="HBO Family - Eastern Feed-US">
+    <display-name lang="en">HBO Family - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/hbo-family.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="HBO Signature (HBO 3) - Eastern-US">
+    <display-name lang="en">HBO Signature (HBO 3) - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/hbo-signature.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="HBO Zone - East-US">
+    <display-name lang="en">HBO Zone - East-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/hbo-zone.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="HGTV USA - Eastern Feed-US">
+    <display-name lang="en">HGTV USA - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/hgtv-usa.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Hallmark - Eastern Feed-US">
+    <display-name lang="en">Hallmark - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/hallmark.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="History Channel US - Eastern Feed-US">
+    <display-name lang="en">History Channel US - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/history.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Investigation Discovery USA - Eastern-US">
+    <display-name lang="en">Investigation Discovery USA - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/investigation_discovery.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="INDIEplex - Eastern-US">
+    <display-name lang="en">INDIEplex - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/indiexplex.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Lifetime Network US - Eastern Feed-US">
+    <display-name lang="en">Lifetime Network US - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/lifetime17.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="MLB Network-US">
+    <display-name lang="en">MLB Network-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/mlbnetwork.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="MSNBC USA-US">
+    <display-name lang="en">MSNBC USA-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/msnbc.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="MoreMax  Eastern-US">
+    <display-name lang="en">MoreMax  Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/moremax.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="MOVIEplex - Eastern-US">
+    <display-name lang="en">MOVIEplex - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/movieplex.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="MTV USA - Eastern Feed-US">
+    <display-name lang="en">MTV USA - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/mtv.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="NBA TV USA-US">
+    <display-name lang="en">NBA TV USA-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/nbatv.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="NHL Network USA-US">
+    <display-name lang="en">NHL Network USA-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/nhlnetwork.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="National Geographic US - Eastern-US">
+    <display-name lang="en">National Geographic US - Eastern-US</display-name>
+    <icon src="https://www.directv.com/images/logos/channels/dark/medium/738.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Nick Jr. - East-US">
+    <display-name lang="en">Nick Jr. - East-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/nickjr.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Oprah Winfrey Network USA Eastern-US">
+    <display-name lang="en">Oprah Winfrey Network USA Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/own.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Outdoor Channel US-US">
+    <display-name lang="en">Outdoor Channel US-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/outdoorchannel.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Paramount Network USA - Eastern Feed-US">
+    <display-name lang="en">Paramount Network USA - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/paramount.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="ReelzChannel-US">
+    <display-name lang="en">ReelzChannel-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/reelz.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Showtime Extreme - Eastern-US">
+    <display-name lang="en">Showtime Extreme - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/sho.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="SEC Network-US">
+    <display-name lang="en">SEC Network-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/sec_network.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Science-US">
+    <display-name lang="en">Science-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/science16.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Showtime - Eastern Feed-US">
+    <display-name lang="en">Showtime - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/sho.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Showtime Showcase - Eastern-US">
+    <display-name lang="en">Showtime Showcase - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/sho.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Showtime West-US">
+    <display-name lang="en">Showtime West-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/sho.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Starz Encore - Eastern-US">
+    <display-name lang="en">Starz Encore - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/starz-encore.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Starz Encore Action - Eastern-US">
+    <display-name lang="en">Starz Encore Action - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/starz-encore-action.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Starz Encore Classics - Eastern-US">
+    <display-name lang="en">Starz Encore Classics - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/starz-encore-classic.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Starz Encore Suspense - Eastern-US">
+    <display-name lang="en">Starz Encore Suspense - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/starz-encore-suspense.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Starz Encore Westerns - Eastern-US">
+    <display-name lang="en">Starz Encore Westerns - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/starz-encore-westerns.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Starz Kids and Family - Eastern-US">
+    <display-name lang="en">Starz Kids and Family - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/starz_family.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="SundanceTV USA - East-US">
+    <display-name lang="en">SundanceTV USA - East-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/sundance.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Starz Comedy - Eastern-US">
+    <display-name lang="en">Starz Comedy - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/starzcomedy.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Starz Cinema - Eastern-US">
+    <display-name lang="en">Starz Cinema - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/starz_cinema.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Starz Edge - Eastern-US">
+    <display-name lang="en">Starz Edge - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/starzedge.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Syfy - Eastern Feed-US">
+    <display-name lang="en">Syfy - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/syfy.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Sportsman Channel-US">
+    <display-name lang="en">Sportsman Channel-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/sportsman_channel.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="TV Land - Eastern-US">
+    <display-name lang="en">TV Land - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/tvland2015.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="TBS - East-US">
+    <display-name lang="en">TBS - East-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/tbs_15.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="TNT - Eastern Feed-US">
+    <display-name lang="en">TNT - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/tnt.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="USA Network - East Feed-US">
+    <display-name lang="en">USA Network - East Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/usa.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Univision - Eastern Feed-US">
+    <display-name lang="en">Univision - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/univision.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="VH1 - Eastern Feed-US">
+    <display-name lang="en">VH1 - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/vh1.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="beIN Sport USA-US">
+    <display-name lang="en">beIN Sport USA-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/bein_sports.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="truTV USA - Eastern-US">
+    <display-name lang="en">truTV USA - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/trutv.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="TLC USA - Eastern-US">
+    <display-name lang="en">TLC USA - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/tlc.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="The Tennis Channel-US">
+    <display-name lang="en">The Tennis Channel-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/tennischannel.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="ABC HD New York-US">
+    <display-name lang="en">ABC HD New York-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/abc.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="AFN prime Atlantic-US">
+    <display-name lang="en">AFN prime Atlantic-US</display-name>
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Antenna (KZJO-DT3) Seattle, WA-US">
+    <display-name lang="en">Antenna (KZJO-DT3) Seattle, WA-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/antenna-tv.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Crime and Investigation Network USA-US">
+    <display-name lang="en">Crime and Investigation Network USA-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/crime_invest.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Discovery Family Channel-US">
+    <display-name lang="en">Discovery Family Channel-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/discoveryfamilychannel.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="EPIX - East-US">
+    <display-name lang="en">EPIX - East-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/epix2019.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox Business-US">
+    <display-name lang="en">Fox Business-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fbn2019.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox Sports Arizona-US">
+    <display-name lang="en">Fox Sports Arizona-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fsn.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox Sports Southwest-US">
+    <display-name lang="en">Fox Sports Southwest-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fsn.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox Sports West-US">
+    <display-name lang="en">Fox Sports West-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fsn.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox Sports Midwest-US">
+    <display-name lang="en">Fox Sports Midwest-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fsn.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox Sports Ohio-US">
+    <display-name lang="en">Fox Sports Ohio-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fsn.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox Sports Southeast-US">
+    <display-name lang="en">Fox Sports Southeast-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/sportsouth.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox Sports Wisconsin-US">
+    <display-name lang="en">Fox Sports Wisconsin-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fsn.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="FUSE TV - Eastern feed-US">
+    <display-name lang="en">FUSE TV - Eastern feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fuse-2018.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fusion-US">
+    <display-name lang="en">Fusion-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fusion.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Galavision - Eastern Feed-US">
+    <display-name lang="en">Galavision - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/galavision.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Hallmark Movies &amp; Mysteries - Eastern-US">
+    <display-name lang="en">Hallmark Movies &amp; Mysteries - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/hmm.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="HSN  - Home Shopping Network-US">
+    <display-name lang="en">HSN  - Home Shopping Network-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/homeshop.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Lifetime Movies - East-US">
+    <display-name lang="en">Lifetime Movies - East-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/lifetime-movies-v2.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="NBC HD New Orleans-US">
+    <display-name lang="en">NBC HD New Orleans-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/nbc.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="PBS Kids (KCTS-TV2) Seattle, WA-US">
+    <display-name lang="en">PBS Kids (KCTS-TV2) Seattle, WA-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/pbskids.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="POP - East-US">
+    <display-name lang="en">POP - East-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/pop.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="The Weather Channel-US">
+    <display-name lang="en">The Weather Channel-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/weatherchannel.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="WGN America - Eastern Feed-US">
+    <display-name lang="en">WGN America - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/wgn_america.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="WWE-US">
+    <display-name lang="en">WWE-US</display-name>
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="WPIX New York (SUPERSTATION)-US">
+    <display-name lang="en">WPIX New York (SUPERSTATION)-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/cw.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="WGN HD Chicago-US">
+    <display-name lang="en">WGN HD Chicago-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/wgn-cvo.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="WE (Womens Entertainment) - Eastern-US">
+    <display-name lang="en">WE (Womens Entertainment) - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/we_womens.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="NBC(WCBD) Charleston-US">
+    <display-name lang="en">NBC(WCBD) Charleston-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/nbc.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="WAPA America-US">
+    <display-name lang="en">WAPA America-US</display-name>
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Travel US - East-US">
+    <display-name lang="en">Travel US - East-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/travel_us.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Starz Encore Black - Eastern-US">
+    <display-name lang="en">Starz Encore Black - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/starz-encore-black.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Starz Encore Family - Eastern-US">
+    <display-name lang="en">Starz Encore Family - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/starz-encore-family.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="RT Documentary-US">
+    <display-name lang="en">RT Documentary-US</display-name>
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="RT America-US">
+    <display-name lang="en">RT America-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/russia-today.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="PBS Miami-US">
+    <display-name lang="en">PBS Miami-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/pbs.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Pac-12 Arizona-US">
+    <display-name lang="en">Pac-12 Arizona-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/pac12_az.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Pac-12 Bay Area-US">
+    <display-name lang="en">Pac-12 Bay Area-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/pac12_ba.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Pac-12 Los Angeles-US">
+    <display-name lang="en">Pac-12 Los Angeles-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/pac12_la.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Pac-12 Oregon-US">
+    <display-name lang="en">Pac-12 Oregon-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/pac12_or.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Pac-12 Washington-US">
+    <display-name lang="en">Pac-12 Washington-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/pac12_wa.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="National Geographic Wild-US">
+    <display-name lang="en">National Geographic Wild-US</display-name>
+    <icon src="https://www.directv.com/images/logos/channels/dark/medium/934.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="NFL Red Zone-US">
+    <display-name lang="en">NFL Red Zone-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/nflred.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="NBC HD Boston-US">
+    <display-name lang="en">NBC HD Boston-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/nbc.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="NBC HD Chicago-US">
+    <display-name lang="en">NBC HD Chicago-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/nbc.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="NBC HD Philadelphia-US">
+    <display-name lang="en">NBC HD Philadelphia-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/nbc.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="NBC HD D.C.-US">
+    <display-name lang="en">NBC HD D.C.-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/nbc.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="NBC Sports Bay Area-US">
+    <display-name lang="en">NBC Sports Bay Area-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/comcastsportsnet.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="NBC Sports California-US">
+    <display-name lang="en">NBC Sports California-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/comcastsportsnet.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="HBO - Pacific Feed-US">
+    <display-name lang="en">HBO - Pacific Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/hbo.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox Sports Southeast Tennessee-US">
+    <display-name lang="en">Fox Sports Southeast Tennessee-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/sportsouth.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox Sports Carolinas-US">
+    <display-name lang="en">Fox Sports Carolinas-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fsn.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox College Sports Atlantic-US">
+    <display-name lang="en">Fox College Sports Atlantic-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fox_college_sports.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox College Sports Central-US">
+    <display-name lang="en">Fox College Sports Central-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fox_college_sports.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox College Sports Pacific-US">
+    <display-name lang="en">Fox College Sports Pacific-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fox_college_sports.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox Sports Detroit-US">
+    <display-name lang="en">Fox Sports Detroit-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fsn.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox Sports Florida-US">
+    <display-name lang="en">Fox Sports Florida-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fsn.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox Sports SUN-US">
+    <display-name lang="en">Fox Sports SUN-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/foxsportssun.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox Sports South-US">
+    <display-name lang="en">Fox Sports South-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fsn.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox Sports North-US">
+    <display-name lang="en">Fox Sports North-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fsn.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox News-US">
+    <display-name lang="en">Fox News-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fnc.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="FOX Boston-US">
+    <display-name lang="en">FOX Boston-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/foxwfxt.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fight Sports-US">
+    <display-name lang="en">Fight Sports-US</display-name>
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="FXX USA - Eastern-US">
+    <display-name lang="en">FXX USA - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fxx.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="ESPN2-US">
+    <display-name lang="en">ESPN2-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/espn2.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Disney - Pacific Feed-US">
+    <display-name lang="en">Disney - Pacific Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/disney.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="CBS HD San Diego-US">
+    <display-name lang="en">CBS HD San Diego-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/cbs.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="California Music Channel(CMTV)-US">
+    <display-name lang="en">California Music Channel(CMTV)-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="CSPAN-US">
+    <display-name lang="en">CSPAN-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/cspan.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="CSPAN 2-US">
+    <display-name lang="en">CSPAN 2-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/cspan2.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="CSPAN 3-US">
+    <display-name lang="en">CSPAN 3-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/cspan3.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Bravo USA - Eastern Feed-US">
+    <display-name lang="en">Bravo USA - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/bravousa.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Boomerang-US">
+    <display-name lang="en">Boomerang-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/boomerang.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Bloomberg TV USA-US">
+    <display-name lang="en">Bloomberg TV USA-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/bloomberg.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="BYU (Brigham Young University) HD-US">
+    <display-name lang="en">BYU (Brigham Young University) HD-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/byutv-19.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Animal Planet US - East-US">
+    <display-name lang="en">Animal Planet US - East-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/animalplanet-19.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="AMC - Eastern Feed-US">
+    <display-name lang="en">AMC - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/amc.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="AFN movie-US">
+    <display-name lang="en">AFN movie-US</display-name>
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="ActionMax HD (AMAXHD)-US">
+    <display-name lang="en">ActionMax HD (AMAXHD)-US</display-name>
+    <icon src="https://www.directv.com/images/logos/channels/dark/medium/293.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="ABC HD Philadelphia-US">
+    <display-name lang="en">ABC HD Philadelphia-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/abc.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="ABC HD Los Angeles-US">
+    <display-name lang="en">ABC HD Los Angeles-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/abc.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="PBS West Palm Beach-US">
+    <display-name lang="en">PBS West Palm Beach-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/pbs.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="ABC 7 HD Sarsota-US">
+    <display-name lang="en">ABC 7 HD Sarsota-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/abc.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="CW HD Kalamazoo MI-US">
+    <display-name lang="en">CW HD Kalamazoo MI-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/cw.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Fox Deportes-US">
+    <display-name lang="en">Fox Deportes-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fox-deportes.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="NFL Network-US">
+    <display-name lang="en">NFL Network-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/nfl_network.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="TV One">
+    <display-name lang="en">TV One-US</display-name>
+    <icon src="https://tvtv.us/tvm/i/image/station/100x100/tvone.png" />
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Universal Kids-US">
+    <display-name lang="en">Universal Kids-US</display-name>
+    <icon src="https://tvtv.us/tvm/i/image/station/100x100/universalkids.png" />
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fight Network-US">
+    <display-name lang="en">UFight Network-US</display-name>
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="YES Network-US">
+    <display-name lang="en">YES Network-US</display-name>
+    <icon src="https://tvtv.us/tvm/i/image/station/100x100/yes.png" />
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="MavTV USA-US">
+    <display-name lang="en">MavTV USA-US</display-name>
+    <icon src="https://tvtv.us/tvm/i/image/station/100x100/mavtv_logo.png" />
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Eleven Sports-US">
+    <display-name lang="en">Eleven Sports-US</display-name>
+    <icon src="https://tvtv.us/tvm/i/image/station/100x100/elevensports.png" />
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ESPN Deportes-US">
+    <display-name lang="en">ESPN Deportes-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/espndeportes.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="RedBull TV-US">
+    <display-name lang="en">US-174 5 USA</display-name>
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-The Cooking Channel">
+    <display-name lang="en">US-The Cooking Channel</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/cooking_channel.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="TheBlaze (BLAZE)-US">
+    <display-name lang="en">TheBlaze (BLAZE)-US</display-name>
+    <icon src="https://sc.dish.com/shared/images/station-logos/blaze.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="CNNi-US">
+    <display-name lang="en">CNNi-US</display-name>
+    <icon src="https://www.directv.com/images/logos/channels/dark/medium/151.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-ActionMax HD (AMAXHD)">
+    <display-name lang="en">US-ActionMax HD (AMAXHD)</display-name>
+    <icon src="https://www.directv.com/images/logos/channels/dark/medium/293.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-Do It Yourself Network (USA) - East">
+    <display-name lang="en">US-Do It Yourself Network (USA) - East</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/diy.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="DW-US">
+    <display-name lang="en">DW-US</display-name>
+    <icon src="http://www.dw.com/cssi/dwlogo-print.gif" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-Discovery Channel (US) - Eastern Feed">
+    <display-name lang="en">US-Discovery Channel (US) - Eastern Feed</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/discovery2016.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-Science">
+    <display-name lang="en">US-Science</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/science16.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-MLB Network">
+    <display-name lang="en">US-MLB Network</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/mlbnetwork.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-NBC HD New York">
+    <display-name lang="en">US-NBC HD New York</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/nbc.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="NBC Sports Network Northwest-US">
+    <display-name lang="en">NBC Sports Network Northwest-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/nbc-sports-nw.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Revolt HD-US">
+    <display-name lang="en">Revolt HD-US</display-name>
+    <icon src="https://www.directv.com/img/ent/global/missing_channel_logo.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="WWE ppv-US">
+    <display-name lang="en">WWE ppv-US</display-name>
+    <icon src="https://sec.wwe.com/f/styles/og_16x9/public/wwe_default.jpg" />
+    <url>http://www.wwe.com</url>
+  </channel>
+  <channel id="Jaya Max (JMAX)-US">
+    <display-name lang="en">Jaya Max (JMAX)-US</display-name>
+    <icon src="https://sc.dish.com/shared/images/station-logos/jmax.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Jaya Plus (JAYA+)-US">
+    <display-name lang="en">Jaya Plus (JAYA+)-US</display-name>
+    <icon src="https://sc.dish.com/shared/images/station-logos/jaya%2b.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Sun Television (SUNTV)-US">
+    <display-name lang="en">Sun Television (SUNTV)-US</display-name>
+    <icon src="https://sc.dish.com/shared/images/station-logos/suntv.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Bounce TV-US">
+    <display-name lang="en">Bounce TV-US</display-name>
+    <icon src="https://sc.dish.com/shared/images/station-logos/bounc.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-OuterMAX - Eastern">
+    <display-name lang="en">US-OuterMAX - Eastern</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/outermax.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-Cinemax - Pacific Feed">
+    <display-name lang="en">US-Cinemax - Pacific Feed</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/cinemax.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Madison Square Garden HD (MSGHD)-US">
+    <display-name lang="en">Madison Square Garden HD (MSGHD)-US</display-name>
+    <icon src="https://www.directv.com/images/logos/channels/dark/medium/781.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-Golf Channel USA">
+    <display-name lang="en">US-Golf Channel USA</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/golf.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-NBC Sports Network">
+    <display-name lang="en">US-NBC Sports Network</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/nbcsports.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-Oprah Winfrey Network USA Eastern">
+    <display-name lang="en">US-Oprah Winfrey Network USA Eastern</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/own.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-Starz - Eastern">
+    <display-name lang="en">US-Starz - Eastern</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/starz.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-Starz - Pacific">
+    <display-name lang="en">US-Starz - Pacific</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/starz.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-Smile Channel">
+    <display-name lang="en">US-Smile Channel</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/smileofachild.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-Starz Cinema - Eastern">
+    <display-name lang="en">US-Starz Cinema - Eastern</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/starz_cinema.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-Paramount Network USA - Eastern Feed">
+    <display-name lang="en">US-Paramount Network USA - Eastern Feed</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/paramount.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-RFD-TV">
+    <display-name lang="en">US-RFD-TV</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/rfd.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-The Weather Channel">
+    <display-name lang="en">US-The Weather Channel</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/weatherchannel.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-UFC TV">
+    <display-name lang="en">US-UFC TV</display-name>
+    <icon src="https://neulionms-a.akamaihd.net/ufc/player2/ufc/site_4/images/header_fightpass.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="Game Show Network - East-US">
+    <display-name lang="en">Game Show Network - East-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/gsn-2018.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="cw11-US">
+    <display-name lang="en">cw11-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/cw.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="HBO 2 - Pacific Feed-US">
+    <display-name lang="en">HBO 2 - Pacific Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/hbo2.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="HBO - Eastern Feed-US">
+    <display-name lang="en">HBO - Eastern Feed-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/hbo.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="UHBO Signature (HBO 3) - Eastern-US">
+    <display-name lang="en">HBO Signature (HBO 3) - Eastern-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/hbo-signature.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="CW HD Charlotte-US">
+    <display-name lang="en">CW HD Charlotte-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/cw.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="NBC HD Charlotte-US">
+    <display-name lang="en">NBC HD Charlotte-US</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/nbc.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-FX Networks East Coast">
+    <display-name lang="en">US-FX Networks East Coast</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fx_logo.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-FX Networks West Coast">
+    <display-name lang="en">US-FX Networks West Coast</display-name>
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-Starz Edge - Eastern">
+    <display-name lang="en">US-Starz Edge - Eastern</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/starzedge.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-Starz Edge West">
+    <display-name lang="en">US-Starz Edge West</display-name>
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-VH1 - Eastern Feed">
+    <display-name lang="en">US-VH1 - Eastern Feed</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/vh1.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-VH1 (West)">
+    <display-name lang="en">VH1 (West)</display-name>
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-FXX USA - Eastern">
+    <display-name lang="en">US-FXX USA - Eastern</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/fxx.png" />
+    <url>http://www.bb199_usa</url>
+  </channel>
+  <channel id="US-FXX WEST">
+    <display-name lang="en">US-FXX WEST</display-name>
+    <url>http://www.bb199_usa</url>
+  </channel>
+</tv>
