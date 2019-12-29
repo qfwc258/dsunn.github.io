@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/wuxingtiyu.jpg" tvg-country="CN" tvg-url="" group-title="",五星体育
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",劲爆体育
+http://183.207.249.9/PLTV/2/224/3221226045/1.m3u8
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",第一财经
+http://w1.livecdn.yicai.com/hls/live/CBN_sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/95/ICS_logo.png" tvg-country="CN" tvg-url="" group-title="",ICS 上海外语
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225972/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/stvxw.jpg" tvg-country="CN" tvg-url="" group-title="",上海新闻综合
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="",上海都市
+http://live-stream.kksmg.com/hls/ylpde66e9037_7bf15f94aa8a107352bc28c6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.zhiboba.org/zbbimg/shanghaidianshiju.png" tvg-country="CN" tvg-url="" group-title="",电视剧频道
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/af/A%26H_Channel.jpg" tvg-country="CN" tvg-url="" group-title="",艺术人文
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225976/1.m3u8
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-language="Chinese" tvg-logo="http://static2.tvzhe.com/channel/logo/SITV-DOCUMENTARY.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",全纪实频道
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225911/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/docutv.jpg" tvg-country="CN" tvg-url="" group-title="",纪实频道
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225971/3.m3u8
