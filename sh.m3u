@@ -11,13 +11,11 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225972/3.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-language="Chinese" tvg-logo="https://dsunn.github.io/dspd.png" tvg-country="CN" tvg-url="" group-title="上海本地",上海都市
 http://live-stream.kksmg.com/hls/ylpde66e9037_7bf15f94aa8a107352bc28c6/playlist.m3u8
-#EXTINF:-1 tvg-id="1986" tvg-name="上视电视剧频道" tvg-language="Chinese" tvg-logo="http://www.zhiboba.org/zbbimg/shanghaidianshiju.png" tvg-country="CN" tvg-url="" group-title="上海本地",电视剧频道
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视频道" tvg-language="Chinese" tvg-logo="https://dsunn.github.io/dfys.jpg" tvg-country="CN" tvg-url="" group-title="上海本地",东方影视
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
-#EXTINF:-1 tvg-id="1990" tvg-name="艺术人文频道" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/af/A%26H_Channel.jpg" tvg-country="CN" tvg-url="" group-title="上海本地",艺术人文
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225976/1.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-language="Chinese" tvg-logo="http://static2.tvzhe.com/channel/logo/SITV-DOCUMENTARY.jpg" tvg-country="CN" tvg-url="" group-title="上海本地",全纪实频道
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225911/3.m3u8
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/docutv.jpg" tvg-country="CN" tvg-url="" group-title="上海本地",纪实频道
+#EXTINF:-1 tvg-id="1988" tvg-name="纪实人文" tvg-language="Chinese" tvg-logo="https://dsunn.github.io/jsrw.jpg" tvg-country="CN" tvg-url="" group-title="上海本地",纪实人文
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225971/3.m3u8
 #EXTINF:-1 tvg-id="200001" tvg-name="bestTV 4K" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="上海本地",bestTV 4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
