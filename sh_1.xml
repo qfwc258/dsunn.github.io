@@ -3,4 +3,7 @@
     <channel id="200001">
         <display-name lang="zh">bestTV 4K</display-name>
     </channel>
+    <channel id="200002">
+        <display-name lang="zh">Premium Shows</display-name>
+    </channel>
  </tv> 
