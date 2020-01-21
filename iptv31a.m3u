@@ -1,0 +1,207 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo=CCTV1.png tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV1
+rtsp://124.75.34.37/PLTV/88888888/224/3221226079/00000100000000060000000000000305_0.smil
+#EXTINF:-1 tvg-logo=CCTV2.png tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV2
+rtsp://124.75.34.37/PLTV/88888888/224/3221226078/00000100000000060000000000000321_0.smil
+#EXTINF:-1 tvg-logo=CCTV3.png tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道",CCTV3
+rtsp://124.75.34.37/PLTV/88888888/224/3221226109/00000100000000060000000000022679_0.smil
+#EXTINF:-1 tvg-logo=CCTV4.png tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道",CCTV4
+rtsp://124.75.34.37/PLTV/88888888/224/3221226082/00000100000000060000000000000558_0.smil
+#EXTINF:-1 tvg-logo=CCTV5.png tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV5
+rtsp://124.75.34.37/PLTV/88888888/224/3221226105/00000100000000060000000000022370_0.smil
+#EXTINF:-1 tvg-logo=CCTV10.png tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道",CCTV10
+rtsp://124.75.34.37/PLTV/88888888/224/3221226157/00000100000000060000000000087197_0.smil
+#EXTINF:-1 tvg-logo=CCTV12.png tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道",CCTV12
+rtsp://124.75.34.37/PLTV/88888888/224/3221226159/00000100000000060000000000087199_0.smil
+#EXTINF:-1 tvg-logo=CCTV1.png tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV1
+rtsp://124.75.34.37/PLTV/88888888/224/3221226102/00000100000000060000000000009784_0.smil
+#EXTINF:-1 tvg-logo=CCTV8.png tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道",CCTV8
+rtsp://124.75.34.37/PLTV/88888888/224/3221226328/10000100000000060000000002544036_0.smil
+#EXTINF:-1 tvg-logo=CCTVNEWS.png tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道",CCTVNEWS
+rtsp://124.75.34.37/PLTV/88888888/224/3221226164/00000100000000060000000000087196_0.smil
+#EXTINF:-1 tvg-logo=CCTV高网.png tvg-id="高尔夫网球" tvg-name="高尔夫网球" group-title="央视频道",CCTV高网
+rtsp://124.75.34.37/PLTV/88888888/224/3221226179/00000100000000060000000000087271_2.smil
+#EXTINF:-1 tvg-logo=CCTV少儿.png tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道",CCTV少儿
+rtsp://124.75.34.37/PLTV/88888888/224/3221226161/00000100000000060000000000087201_0.smil
+#EXTINF:-1 tvg-logo=CCTV新闻.png tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道",CCTV新闻
+rtsp://124.75.34.37/PLTV/88888888/224/3221226168/00000100000000060000000000087200_0.smil
+#EXTINF:-1 tvg-logo=CCTV音乐.png tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道",CCTV音乐
+rtsp://124.75.34.37/PLTV/88888888/224/3221226170/00000100000000060000000000087202_0.smil
+#EXTINF:-1 tvg-logo=CCTV5.png tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",MAX超级汽车
+rtsp://124.75.34.37/PLTV/88888888/224/3221226292/10000100000000060000000001678743_0.smil
+#EXTINF:-1 tvg-logo=北京卫视.png tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视频道",北京卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226145/00000100000000060000000000087185_0.smil
+#EXTINF:-1 tvg-logo=北京卫视.png tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视频道",北京卫视HD
+rtsp://124.75.34.37/PLTV/88888888/224/3221226087/00000100000000060000000000007666_0.smil
+#EXTINF:-1 tvg-logo=bestv.png tvg-id="超级体育1" tvg-name="超级体育1" group-title="上海本地",超级体育1
+rtsp://124.75.34.37/PLTV/88888888/224/3221226181/00000100000000060000000000087274_2.smil
+#EXTINF:-1 tvg-logo=bestv.png tvg-id="超级体育1" tvg-name="超级体育1" group-title="上海本地",超级体育1
+rtsp://124.75.34.37/PLTV/88888888/224/0/3221225669/0000000022ij.smil
+#EXTINF:-1 tvg-logo=bestv.png tvg-id="超级体育2" tvg-name="超级体育2" group-title="上海本地",超级体育2
+rtsp://124.75.34.37/PLTV/88888888/224/3221226185/00000100000000060000000000087272_1.smil
+#EXTINF:-1 tvg-logo=bestv.png tvg-id="超级体育2" tvg-name="超级体育2" group-title="上海本地",超级体育2
+rtsp://124.75.34.37/PLTV/88888888/224/3221226193/00000100000000060000000000201563_0.smil
+#EXTINF:-1 tvg-logo=bestv.png tvg-id="超级体育3" tvg-name="超级体育3" group-title="上海本地",超级体育3
+rtsp://124.75.34.37/PLTV/88888888/224/3221226188/00000100000000060000000000087273_2.smil
+#EXTINF:-1 tvg-logo=bestv.png tvg-id="超级体育4" tvg-name="超级体育4" group-title="上海本地",超级体育4
+rtsp://124.75.34.37/PLTV/88888888/224/3221226192/00000100000000060000000000087276_2.smil
+#EXTINF:-1 tvg-logo=bestv.png tvg-id="超级体育4" tvg-name="超级体育4" group-title="上海本地",超级体育4
+rtsp://124.75.34.37/PLTV/88888888/224/3221226208/00000100000000060000000000201575_0.smil
+#EXTINF:-1 tvg-logo=bestv.png tvg-id="超级体育5" tvg-name="超级体育5" group-title="上海本地",超级体育5
+rtsp://124.75.34.37/PLTV/88888888/224/3221226194/00000100000000060000000000087277_2.smil
+#EXTINF:-1 tvg-logo=bestv.png tvg-id="超级体育5" tvg-name="超级体育5" group-title="上海本地",超级体育5
+rtsp://124.75.34.37/PLTV/88888888/224/3221226225/10000100000000060000000000686926_0.smil
+#EXTINF:-1 tvg-logo=bestv.png tvg-id="超级体育6" tvg-name="超级体育6" group-title="上海本地",超级体育6
+rtsp://124.75.34.37/PLTV/88888888/224/3221226196/00000100000000060000000000087275_3.smil
+#EXTINF:-1 tvg-logo=bestv.png tvg-id="超级体育6" tvg-name="超级体育6" group-title="上海本地",超级体育6
+rtsp://124.75.34.37/PLTV/88888888/224/3221226232/10000100000000060000000000686925_0.smil
+#EXTINF:-1 tvg-logo=bestv.png tvg-id="超级体育7" tvg-name="超级体育7" group-title="上海本地",超级体育7
+rtsp://124.75.34.37/PLTV/88888888/224/3221226198/00000100000000060000000000088056_0.smil
+#EXTINF:-1 tvg-logo=bestv.png tvg-id="超级体育7" tvg-name="超级体育7" group-title="上海本地",超级体育7
+rtsp://124.75.34.37/PLTV/88888888/224/3221226289/10000100000000060000000001678455_0.smil
+#EXTINF:-1 tvg-logo=bestv.png tvg-id="超级体育8" tvg-name="超级体育8" group-title="上海本地",超级体育8
+rtsp://124.75.34.37/PLTV/88888888/224/3221226294/10000100000000060000000001678744_0.smil
+#EXTINF:-1 tvg-logo=bestv.png tvg-id="超级体育10" tvg-name="超级体育10" group-title="上海本地",超级体育10
+rtsp://124.75.34.37/PLTV/88888888/224/3221226297/10000100000000060000000001678644_0.smil
+#EXTINF:-1 tvg-logo=bestv.png tvg-id="超级体育11" tvg-name="超级体育11" group-title="上海本地",超级体育11
+rtsp://124.75.34.37/PLTV/88888888/224/3221226301/10000100000000060000000001678747_0.smil
+#EXTINF:-1 tvg-logo=bestv.png tvg-id="导视" tvg-name="导视" group-title="上海本地",导视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226215/10000100000000060000000000516617_0.smil
+#EXTINF:-1 tvg-logo=第一财经.png tvg-id="第一财经" tvg-name="第一财经" group-title="上海本地",第一财经
+rtsp://124.75.34.37/PLTV/88888888/224/3221226108/00000100000000060000000000022373_0.smil
+#EXTINF:-1 tvg-logo=第一财经.png tvg-id="第一财经" tvg-name="第一财经" group-title="上海本地",第一财经HD
+rtsp://124.75.34.37/PLTV/88888888/224/3221226368/10000100000000060000000000813433_0_mdn_1.smil
+#EXTINF:-1 tvg-logo="https://dsunn.github.io/dfys.jpg" tvg-id="1986" tvg-name="东方影视频道" group-title="上海本地",东方影视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226093/00000100000000060000000000007692_0.smil
+#EXTINF:-1 tvg-logo="https://dsunn.github.io/dfys.jpg" tvg-id="1986" tvg-name="东方影视频道" group-title="上海本地",东方影视HD
+rtsp://124.75.34.37/PLTV/88888888/224/3221226220/10000100000000060000000000522062_0.smil
+#EXTINF:-1 tvg-logo=东方财经.png tvg-id="东方财经" tvg-name="东方财经" group-title="上海本地",东方财经
+rtsp://124.75.34.37/PLTV/88888888/224/3221226353/10000100000000060000000002544042_0.smil
+#EXTINF:-1 tvg-logo=东方购物.png tvg-id="东方购物1" tvg-name="东方购物1" group-title="上海本地",东方购物1
+rtsp://124.75.34.37/PLTV/88888888/224/3221226098/00000100000000060000000000007697_0.smil
+#EXTINF:-1 tvg-logo=东方购物.png tvg-id="东方购物1" tvg-name="东方购物1" group-title="上海本地",东方购物1
+rtsp://124.75.34.37/PLTV/88888888/224/3221226275/10000100000000060000000001534016_0.smil
+#EXTINF:-1 tvg-logo=东方购物.png tvg-id="东方购物2" tvg-name="东方购物2" group-title="上海本地",东方购物2
+rtsp://124.75.34.37/PLTV/88888888/224/3221226264/10000100000000060000000001534015_0.smil
+#EXTINF:-1 tvg-logo=东方购物.png tvg-id="东方购物3" tvg-name="东方购物3" group-title="上海本地",东方购物3
+rtsp://124.75.34.37/PLTV/88888888/224/3221226240/10000100000000060000000000848366_0.smil
+#EXTINF:-1 tvg-logo=东方购物.png tvg-id="东方购物5" tvg-name="东方购物5" group-title="上海本地",东方购物5
+rtsp://124.75.34.37/PLTV/88888888/224/3221226243/10000100000000060000000000848375_0.smil
+#EXTINF:-1 tvg-logo=东方购物.png tvg-id="东方购物5" tvg-name="东方购物5" group-title="上海本地",东方购物5
+rtsp://124.75.34.37/PLTV/88888888/224/3221226315/10000100000000060000000001865658_0.smil
+#EXTINF:-1 tvg-logo=东方卫视.png tvg-id="东方卫视" tvg-name="东方卫视" group-title="上海本地",东方卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226112/00000100000000060000000000037556_0.smil
+#EXTINF:-1 tvg-logo=动漫秀场.png tvg-id="动漫秀场" tvg-name="动漫秀场" group-title="上海本地",动漫秀场
+rtsp://124.75.34.37/PLTV/88888888/224/0/3221225484/00000000010z.smil
+#EXTINF:-1 tvg-logo=都市剧场.png tvg-id="都市剧场" tvg-name="都市剧场" group-title="上海本地",都市剧场
+rtsp://124.75.34.37/PLTV/88888888/224/3221226163/00000100000000060000000000087203_0.smil
+#EXTINF:-1 tvg-logo=都市频道.png tvg-id="上海都市频道" tvg-name="上海都市频道" group-title="上海本地",都市频道
+rtsp://124.75.34.37/PLTV/88888888/224/3221226091/00000100000000060000000000007690_0.smil
+#EXTINF:-1 tvg-logo=都市频道.png tvg-id="上海都市频道" tvg-name="上海都市频道" group-title="上海本地",都市频道HD
+rtsp://124.75.34.37/PLTV/88888888/224/3221226219/10000100000000060000000000522063_0.smil
+#EXTINF:-1 tvg-logo=广东卫视.png tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道",广东卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226138/00000100000000060000000000087170_0.smil
+#EXTINF:-1 tvg-logo=广东卫视.png tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道",广东卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226083/00000100000000060000000000005868_0.smil
+#EXTINF:-1 tvg-logo=广西卫视.png tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道",广西卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226158/00000100000000060000000000087190_0.smil
+#EXTINF:-1 tvg-logo=河北卫视.png tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视频道",河北卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226140/00000100000000060000000000087172_0.smil
+#EXTINF:-1 tvg-logo=河南卫视.png tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视频道",河南卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226124/00000100000000060000000000087104_0.smil
+#EXTINF:-1 tvg-logo=黑龙江卫视.png tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226085/00000100000000060000000000005880_0.smil
+#EXTINF:-1 tvg-logo=湖北卫视.png tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226142/00000100000000060000000000087174_0.smil
+#EXTINF:-1 tvg-logo=湖南卫视.png tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226086/00000100000000060000000000005881_0.smil
+#EXTINF:-1 tvg-logo=环球购物.png tvg-id="环球购物" tvg-name="环球购物" group-title="卫视频道",环球购物
+rtsp://124.75.34.37/PLTV/88888888/224/3221226237/10000100000000060000000000838200_0.smil
+#EXTINF:-1 tvg-logo=吉林卫视.png tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226125/00000100000000060000000000087163_0.smil
+#EXTINF:-1 tvg-logo=极速汽车.png tvg-id="MAX极速汽车" tvg-name="MAX极速汽车" group-title="卫视频道",极速汽车
+rtsp://124.75.34.37/PLTV/88888888/224/0/3221225640/000000001suk.smil
+#EXTINF:-1 tvg-logo="https://dsunn.github.io/jsrw.jpg" tvg-id="1988" tvg-name="上海纪实" group-title="上海本地",纪实频道
+rtsp://124.75.34.37/PLTV/88888888/224/3221226095/00000100000000060000000000007694_0.smil
+#EXTINF:-1 tvg-logo="https://dsunn.github.io/jsrw.jpg" tvg-id="1988" tvg-name="上海纪实" group-title="上海本地",纪实人文
+rtsp://124.75.34.37/PLTV/88888888/224/3221226230/10000100000000060000000000646848_0.smil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/95/ICS_logo.png" tvg-id="上视外语频道" tvg-name="上视外语频道" group-title="上海本地",ICS
+rtsp://124.75.34.37/PLTV/88888888/224/3221226097/00000100000000060000000000007696_0.smil
+#EXTINF:-1 tvg-logo=健康社区.png tvg-id="健康社区" tvg-name="健康社区" group-title="卫视频道",健康社区
+rtsp://124.75.34.37/PLTV/88888888/224/3221226213/10000100000000060000000000379501_0.smil
+#EXTINF:-1 tvg-logo=江苏卫视.png tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226147/00000100000000060000000000087187_0.smil
+#EXTINF:-1 tvg-logo=江苏卫视.png tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226110/00000100000000060000000000037546_0.smil
+#EXTINF:-1 tvg-logo=教育频道.png tvg-id="教育频道" tvg-name="教育频道" group-title="上海本地",教育频道
+rtsp://124.75.34.37/PLTV/88888888/224/3221226088/00000100000000060000000000007667_0.smil
+#EXTINF:-1 tvg-logo=金色频道.png tvg-id="金色频道" tvg-name="金色频道" group-title="卫视频道",金色频道
+rtsp://124.75.34.37/PLTV/88888888/224/3221226334/10000100000000060000000002544041_0.smil
+#EXTINF:-1 tvg-logo=劲爆体育.png tvg-id="劲爆体育" tvg-name="劲爆体育" group-title="卫视频道",劲爆体育
+rtsp://124.75.34.37/PLTV/88888888/224/3221226148/00000100000000060000000000087180_0.smil
+#EXTINF:-1 tvg-logo=劲爆体育.png tvg-id="劲爆体育" tvg-name="劲爆体育" group-title="卫视频道",劲爆体育
+rtsp://124.75.34.37/PLTV/88888888/224/3221226104/00000100000000060000000000010162_0.smil
+#EXTINF:-1 tvg-logo=辽宁卫视.png tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226153/00000100000000060000000000087193_0.smil
+#EXTINF:-1 tvg-logo=旅游卫视.png tvg-id="旅游卫视" tvg-name="旅游卫视" group-title="卫视频道",旅游卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226149/00000100000000060000000000087189_0.smil
+#EXTINF:-1 tvg-logo=内蒙古卫视.png tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道",内蒙古卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226135/00000100000000060000000000087173_0.smil
+#EXTINF:-1 tvg-logo=宁夏卫视.png tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视频道",宁夏卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226152/00000100000000060000000000087184_0.smil
+#EXTINF:-1 tvg-logo=七彩戏剧.png tvg-id="七彩戏剧" tvg-name="七彩戏剧" group-title="卫视频道",七彩戏剧
+rtsp://124.75.34.37/PLTV/88888888/224/3221226347/10000100000000060000000002544035_0.smil
+#EXTINF:-1 tvg-logo=青海卫视.png tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视频道",青海卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226127/00000100000000060000000000087165_0.smil
+#EXTINF:-1 tvg-logo=全纪实.png tvg-id="全纪实" tvg-name="全纪实" group-title="卫视频道",全纪实
+rtsp://124.75.34.37/PLTV/88888888/224/3221226141/00000100000000060000000000087181_0.smil
+#EXTINF:-1 tvg-logo=山东卫视.png tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道",山东卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226160/00000100000000060000000000087192_0.smil
+#EXTINF:-1 tvg-logo=山西卫视.png tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视频道",山西卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226132/00000100000000060000000000087164_0.smil
+#EXTINF:-1 tvg-logo=陕西卫视.png tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视频道",陕西卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226129/00000100000000060000000000087167_0.smil
+#EXTINF:-1 tvg-logo=深圳卫视.png tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226084/00000100000000060000000000005879_0.smil
+#EXTINF:-1 tvg-logo=生活时尚.png tvg-id="生活时尚" tvg-name="生活时尚" group-title="卫视频道",生活时尚
+rtsp://124.75.34.37/PLTV/88888888/224/3221226139/00000100000000060000000000087179_0.smil
+#EXTINF:-1 tvg-logo=时尚购物.png tvg-id="时尚购物" tvg-name="时尚购物" group-title="卫视频道",时尚购物
+rtsp://124.75.34.37/PLTV/88888888/224/3221226273/10000100000000060000000001533614_0.smil
+#EXTINF:-1 tvg-logo=四川卫视.png tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道",四川卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226151/00000100000000060000000000087191_0.smil
+#EXTINF:-1 tvg-logo=陶瓷.png tvg-id="陶瓷" tvg-name="陶瓷" group-title="卫视频道",陶瓷
+rtsp://124.75.34.37/PLTV/88888888/224/3221226321/10000100000000060000000002340601_0.smil
+#EXTINF:-1 tvg-logo=五星体育.png tvg-id="五星体育频道" tvg-name="五星体育频道" group-title="上海本地",五星体育
+rtsp://124.75.34.37/PLTV/88888888/224/3221226107/00000100000000060000000000022372_0.smil
+#EXTINF:-1 tvg-logo=天津卫视.png tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道",天津卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226123/00000100000000060000000000087161_0.smil
+#EXTINF:-1 tvg-logo=投资理财.png tvg-id="投资理财" tvg-name="投资理财" group-title="卫视频道",投资理财
+rtsp://124.75.34.37/PLTV/88888888/224/0/3221225765/iptv255201.smil
+#EXTINF:-1 tvg-logo=网球.png tvg-id="网球" tvg-name="网球" group-title="卫视频道",网球
+rtsp://124.75.34.37/PLTV/88888888/224/0/3221225697/iptv207702.smil
+#EXTINF:-1 tvg-logo=五星体育.png tvg-id="五星体育频道" tvg-name="五星体育频道" group-title="上海本地",五星体育HD
+rtsp://124.75.34.37/PLTV/88888888/224/3221226234/10000100000000060000000000813434_0.smil
+#EXTINF:-1 tvg-logo=西藏卫视.png tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视频道",西藏卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226134/00000100000000060000000000087166_0.smil
+#EXTINF:-1 tvg-logo=新疆卫视.png tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视频道",新疆卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226332/10000100000000060000000002544039_0.smil
+#EXTINF:-1 tvg-logo=新闻综合.png tvg-id="上视新闻频道" tvg-name="上视新闻频道" group-title="上海本地",新闻综合
+rtsp://124.75.34.37/PLTV/88888888/224/3221226089/00000100000000060000000000007688_0.smil
+#EXTINF:-1 tvg-logo=新闻综合.png tvg-id="上视新闻频道" tvg-name="上视新闻频道" group-title="上海本地",新闻综合HD
+rtsp://124.75.34.37/PLTV/88888888/224/3221226233/10000100000000060000000000813435_0.smil
+#EXTINF:-1 tvg-logo=炫动卡通.png tvg-id="炫动卡通" tvg-name="炫动卡通" group-title="上海本地",炫动卡通
+rtsp://124.75.34.37/PLTV/88888888/224/3221226077/00000100000000060000000000000293_0.smil
+#EXTINF:-1 tvg-logo=优购物.png tvg-id="优购物" tvg-name="优购物" group-title="上海本地",优购物
+rtsp://124.75.34.37/PLTV/88888888/224/3221226349/10000100000000060000000002544037_0.smil
+#EXTINF:-1 tvg-logo=游戏风云.png tvg-id="游戏风云" tvg-name="游戏风云" group-title="上海本地",游戏风云
+rtsp://124.75.34.37/PLTV/88888888/224/0/3221225478/00000000010t.smil
+#EXTINF:-1 tvg-logo=云南卫视.png tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视频道",云南卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226136/00000100000000060000000000087168_0.smil
+#EXTINF:-1 tvg-logo=浙江卫视.png tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226156/00000100000000060000000000087188_0.smil
+#EXTINF:-1 tvg-logo=浙江卫视.png tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226111/00000100000000060000000000037315_0.smil
+#EXTINF:-1 tvg-logo=bestv.png tvg-id="直播室2" tvg-name="直播室2" group-title="上海本地",直播室2
+rtsp://124.75.34.37/PLTV/88888888/224/3221226206/00000100000000060000000000201569_0.smil
+#EXTINF:-1 tvg-logo=重庆卫视.png tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
+rtsp://124.75.34.37/PLTV/88888888/224/3221226137/00000100000000060000000000087175_0.smil
