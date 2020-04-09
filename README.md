@@ -1,3 +1,3 @@
 IPTV
 
-All are collected from online.
+All are collected from internet.
