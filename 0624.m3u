@@ -83,7 +83,7 @@ http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226127/
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226103/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5高清2K
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225904/3.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+高清2K
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5高清2K
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226195/3.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5高清
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225904/2.m3u8
