@@ -534,5 +534,30 @@ http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 蓝光影视14台
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
+
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://pic.downk.cc/item/5e5652f46127cc0713d5e11c.png" group-title="影视",CHC高清电影
 http://27.36.62.163:9090/live/CHCHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="影视",CCTV-女性时尚
+http://27.36.62.163:9090/live/DOXyuanxianHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="影视",CCTV-世界地理
+http://27.36.62.163:9090/live/DOXhanliuHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
+#EXTINF:-1 tvg-id="6569" tvg-name="文化精品" tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/CCTV/CCTVwenhuajingpin.png" group-title="影视",CCTV-文化精品
+http://27.36.62.163:9090/live/DOXyijiaHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="影视",CCTV-央视台球
+http://27.36.62.163:9090/live/DOXyinglunHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="影视",CCTV-风云音乐
+http://27.36.62.163:9090/live/DOXxinyiHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="影视",CCTV-风云剧场
+http://27.36.62.163:9090/live/DOXxinzhiHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="影视",CCTV-第一剧场
+http://27.36.62.163:9090/live/DOXyinghuaHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="影视",CCTV-怀旧剧场
+http://27.36.62.163:9090/live/DOXjuchangHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="影视",求索纪录HD
+http://27.36.62.163:9090/live/QSJLHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="影视",求索科学HD
+http://27.36.62.163:9090/live/qiusuokexueHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="影视",求索动物HD
+http://27.36.62.163:9090/live/QSDWHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
+#EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="影视",求索生活HD
+http://27.36.62.163:9090/live/QSSHHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
