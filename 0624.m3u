@@ -174,6 +174,8 @@ http://183.207.255.188/live/program/live/jjkt/1300000/mnf.m3u8
 
 
 #上海1
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海1",上海新闻综合蓝光
+http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海1", 东方影视蓝光
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&authCode=3a&stbId=005301FF00158910000000212621B1F2&version=1.0&owaccmark=5000000010000032212&owchid=bestzb&owsid=2093431579530013084&AuthInfo=2TOfGIahP4HrGWrHbpJXVC70y2PVjmhUubUspsIcpqbPt3njBIzWc%2Fam35vTsnvWPWGkzpZH3A16MnnNHKq3GxKdDnIii87ggbdt%2FwooaevY4cuAtO0vMGGwXuHO%2Biok
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海1", 纪实人文蓝光
@@ -218,6 +220,10 @@ http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海1", 极速汽车蓝光
 http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海1",新视觉蓝光
+http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海1",全纪实蓝光
+http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 动漫秀场蓝光
 http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 黑莓动画蓝光
@@ -532,7 +538,7 @@ http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 蓝光动漫13台
 http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 蓝光影视14台
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://pic.downk.cc/item/5e5652f46127cc0713d5e11c.png" group-title="影视",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://pic.downk.cc/item/5e5652f46127cc0713d5e11c.png" group-title="影视",CHC高清电影
@@ -543,6 +549,9 @@ http://27.36.62.163:9090/live/DOXyuanxianHD_7000.m3u8?ci=123&srchost=172.16.149.
 http://27.36.62.163:9090/live/DOXhanliuHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
 #EXTINF:-1 tvg-id="6569" tvg-name="文化精品" tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/CCTV/CCTVwenhuajingpin.png" group-title="影视",CCTV-文化精品
 http://27.36.62.163:9090/live/DOXyijiaHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
+
+http://27.36.62.163:9090/live/DOXyijiaHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
+
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="影视",CCTV-央视台球
 http://27.36.62.163:9090/live/DOXyinglunHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="影视",CCTV-风云音乐
