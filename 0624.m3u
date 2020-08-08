@@ -493,7 +493,7 @@ http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视2",CCTV-12蓝光3
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6417486185316863297/1.m3u8?stbId=005301FF001589101611549359B92F26&channel-id=shvoolive&Contentid=6417486185316863297&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=6417486185316863297&owchid=shvoolive&owsid=9153671579531878340&AuthInfo=2TOfGIahP4HrGWrHbpJXVPo6e%2BHF%2BrVo6xQQtyKDSurAX3PB%2FnVIr3xix20cl8xPdgGi1rpRM1DYWZnyEDgQSmvEeryqwyIWUPNfICRzKqmuU3YFsCIaBI4jHMacn12g
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视2",CCTV-13蓝光3
-http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel39/2300.m3u8
+http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视2",CCTV-14蓝光3
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5554452538079056392/1.m3u8?stbId=005301FF001589101611549359B92F26&channel-id=shvoolive&Contentid=5554452538079056392&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=5554452538079056392&owchid=shvoolive&owsid=1386521579531934459&AuthInfo=2TOfGIahP4HrGWrHbpJXVPo6e%2BHF%2BrVo6xQQtyKDSuraKH2KM768ZNQcj3PAdtOdSSlj5RtbM3onnzvUC8Txgj%2BRYROAJoRcjfZ4YOPHclFuVVM2CqA1FqqLFpU5t7y%2B
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视2",CCTV-15蓝光3
@@ -503,15 +503,25 @@ http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视2",CCTV-4K高码3
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 
-#hk
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台", 凤凰资讯蓝光1
-http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台", 凤凰中文蓝光1
-http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台", 凤凰资讯蓝光2
-http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台", 凤凰中文蓝光2
-http://117.169.120.138:8080/live/fhchinese/index.m3u8
+#hktw
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",BBC
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=tv5
+#EXTINF:-1 tvg-id="6113" tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="港澳台",日本NHK
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=bbc
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯HD
+http://tv668.club/hk168.php?hk168&play&vkeys=dmlkJTNEZmhkcyUyM2lkJTNEMQ__
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文HD
+http://tv668.club/hk168.php?hk168&play&vkeys=dmlkJTNEZmhkcyUyM2lkJTNEMg__
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港HD
+http://tv668.club/hk168.php?hk168&play&vkeys=dmlkJTNEZmhkcyUyM2lkJTNEMw__
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港澳台",三立新闻
+http://tv668.club/hk168.php?hk168&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRHNseHdfd2c_#http://tv668.club/hk168.php?hk168&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRHNseHdfd2cy
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻
+http://tv668.club/hk168.php?hk168&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRHR2YnN4d193Zw__#http://tv668.club/hk168.php?hk168&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRHR2YnN4d193ZzI_
+
+
+#movies
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 蓝光影视1台
 http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 蓝光影视2台
@@ -540,4 +550,131 @@ http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://pic.downk.cc/item/5e5652f46127cc0713d5e11c.png" group-title="影视",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", KiD电影一台
+http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", KiD电影二台
+http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", KiD动画
+http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视1
+http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视2
+http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视3
+http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视4
+http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视5
+http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视6
+http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视7
+http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视8
+http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 新片放映厅
+http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd-virtuallive5100030975-75/index.m3u8?&encrypt=1
+
+
+#CIBN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN精品影院
+https://live.elibei.com/tv/channel/cibn?id=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN生活
+https://live.elibei.com/tv/channel/cibn?id=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN军事
+https://live.elibei.com/tv/channel/cibn?id=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN怡家
+https://live.elibei.com/tv/channel/cibn?id=4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN文旅中国
+https://live.elibei.com/tv/channel/cibn?id=5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN今日推荐
+https://live.elibei.com/tv/channel/cibn?id=6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN嗨播1
+https://live.elibei.com/tv/channel/cibn?id=7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN时尚生活
+https://live.elibei.com/tv/channel/cibn?id=8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN童学世界
+https://live.elibei.com/tv/channel/cibn?id=10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN经典剧场
+https://live.elibei.com/tv/channel/cibn?id=11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN风尚运动
+https://live.elibei.com/tv/channel/cibn?id=12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN快乐购物
+https://live.elibei.com/tv/channel/cibn?id=13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN映画
+https://live.elibei.com/tv/channel/cibn?id=14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN嗨播2
+https://live.elibei.com/tv/channel/cibn?id=17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN情感影院
+https://live.elibei.com/tv/channel/cibn?id=18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN骄阳剧场
+https://live.elibei.com/tv/channel/cibn?id=19
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN东方教育
+https://live.elibei.com/tv/channel/cibn?id=20
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN嗨播3
+https://live.elibei.com/tv/channel/cibn?id=21
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN全电竞
+https://live.elibei.com/tv/channel/cibn?id=25
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN喜剧影院
+https://live.elibei.com/tv/channel/cibn?id=26
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN微电影
+https://live.elibei.com/tv/channel/cibn?id=28
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN嗨播4
+https://live.elibei.com/tv/channel/cibn?id=29
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN院线大片
+https://live.elibei.com/tv/channel/cibn?id=35
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN品质生活
+https://live.elibei.com/tv/channel/cibn?id=36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN古装剧场
+https://live.elibei.com/tv/channel/cibn?id=37
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN嗨播5
+https://live.elibei.com/tv/channel/cibn?id=39
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN动漫剧场
+https://live.elibei.com/tv/channel/cibn?id=40
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN好莱坞
+https://live.elibei.com/tv/channel/cibn?id=41
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN家居用品
+https://live.elibei.com/tv/channel/cibn?id=42
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN朵丫乐园
+https://live.elibei.com/tv/channel/cibn?id=44
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN嗨播6
+https://live.elibei.com/tv/channel/cibn?id=47
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN流金岁月
+https://live.elibei.com/tv/channel/cibn?id=49
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",嗨播7
+https://live.elibei.com/tv/channel/cibn?id=51
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN1
+https://live.elibei.com/tv/channel/cibn?id=9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN2
+https://live.elibei.com/tv/channel/cibn?id=15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN3
+https://live.elibei.com/tv/channel/cibn?id=16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN4
+https://live.elibei.com/tv/channel/cibn?id=22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN5
+https://live.elibei.com/tv/channel/cibn?id=23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN6
+https://live.elibei.com/tv/channel/cibn?id=24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN7
+https://live.elibei.com/tv/channel/cibn?id=30
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN8
+https://live.elibei.com/tv/channel/cibn?id=31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN9
+https://live.elibei.com/tv/channel/cibn?id=32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN10
+https://live.elibei.com/tv/channel/cibn?id=33
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN11
+https://live.elibei.com/tv/channel/cibn?id=34
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN12
+https://live.elibei.com/tv/channel/cibn?id=38
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN13
+https://live.elibei.com/tv/channel/cibn?id=45
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN14
+https://live.elibei.com/tv/channel/cibn?id=46
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN15
+https://live.elibei.com/tv/channel/cibn?id=48
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN16
+https://live.elibei.com/tv/channel/cibn?id=50
 
