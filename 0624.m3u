@@ -460,32 +460,6 @@ http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 
 
 #movies
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 蓝光影视1台
-http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 蓝光影视2台
-http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 蓝光影视3台
-http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 蓝光影视4台
-http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 蓝光影视5台
-http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 蓝光影视6台
-http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 蓝光影视7台
-http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 蓝光影视8台
-http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 蓝光影视9台
-http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 蓝光影视10台
-http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 蓝光动画11台
-http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 蓝光动画12台
-http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 蓝光动漫13台
-http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://pic.downk.cc/item/5e5652f46127cc0713d5e11c.png" group-title="影视",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", KiD电影一台
@@ -496,22 +470,6 @@ http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视1
-http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视2
-http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视3
-http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视4
-http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视5
-http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视6
-http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视7
-http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视8
-http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 新片放映厅
 http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd-virtuallive5100030975-75/index.m3u8?&encrypt=1
 
