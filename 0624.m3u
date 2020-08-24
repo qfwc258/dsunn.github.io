@@ -479,21 +479,21 @@ http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",#EXTINF-1 KiD影视1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视1
 http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",#EXTINF-1 KiD影视2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视2
 http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",#EXTINF-1 KiD影视3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视3
 http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",#EXTINF-1 KiD影视4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视4
 http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",#EXTINF-1 KiD影视5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视5
 http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",#EXTINF-1 KiD影视7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视7
 http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",#EXTINF-1 KiD影视8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影视8
 http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",#EXTINF-1 CBN影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",CBN影院
 http://116.199.5.51:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=71&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv_CMSID=&amp;Fsv_otype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 新片放映厅
 http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd-virtuallive5100030975-75/index.m3u8?&encrypt=1
@@ -601,90 +601,90 @@ https://live.elibei.com/tv/channel/cibn?id=50
 
 
 #求索
-#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="求索",#EXTINF-1 求索动物
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="求索",求索动物
 http://117.148.187.83/PLTV/88888888/224/3221226695/index.m3u8
-#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="求索",#EXTINF-1 求索纪录
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="求索",求索纪录
 http://112.17.40.154/PLTV/88888888/224/3221226610/index.m3u8
-#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="求索",#EXTINF-1 求索科学
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="求索",求索科学
 http://112.17.40.200/PLTV/88888888/224/3221226608/index.m3u8
-#EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="求索",#EXTINF-1 求索生活
+#EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="求索",求索生活
 http://112.17.40.36/PLTV/88888888/224/3221226606/index.m3u8
 
 #Newtv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",#EXTINF-1 Newtv超级电视剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv超级电视剧
 http://39.134.65.162/PLTV/88888888/224/3221225637/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",#EXTINF-1 Newtv超级电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv超级电影
 http://39.134.65.162/PLTV/88888888/224/3221225644/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",#EXTINF-1 Newtv动作电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv动作电影
 http://39.134.65.162/PLTV/88888888/224/3221225555/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",#EXTINF-1 Newtv惊悚悬疑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv惊悚悬疑
 http://39.134.65.162/PLTV/88888888/224/3221225553/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",#EXTINF-1 Newtv古装剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv古装剧场
 http://39.134.65.162/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",#EXTINF-1 Newtv家庭剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv家庭剧场
 http://39.134.65.162/PLTV/88888888/224/3221225538/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",#EXTINF-1 Newtv精品大剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv精品大剧
 http://39.134.65.162/PLTV/88888888/224/3221225536/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",#EXTINF-1 Newtv爱情喜剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv爱情喜剧
 http://39.134.65.162/PLTV/88888888/224/3221225533/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",#EXTINF-1 Newtv东北热剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv东北热剧
 http://39.134.65.162/PLTV/88888888/224/3221225679/index.m3u8
 
 
 #iHOT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",#EXTINF-1 爱军武
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱军武
 http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",#EXTINF-1 爱解密
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱解密
 http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/01.m3u8
-#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="iHOT",#EXTINF-1 爱历史
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="iHOT",爱历史
 http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",#EXTINF-1 爱美食
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱美食
 http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",#EXTINF-1 爱探索
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱探索
 http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",#EXTINF-1 爱科学
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱科学
 http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",#EXTINF-1 爱娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱娱乐
 http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",#EXTINF-1 爱旅行
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱旅行
 http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",#EXTINF-1 爱猎奇
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱猎奇
 http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",#EXTINF-1 爱时尚
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱时尚
 http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230109/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",#EXTINF-1 爱世界
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱世界
 http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/01.m3u8
 
 
 #DOX
-#EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="DOX",#EXTINF-1 DOX映画
+#EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="DOX",DOX映画
 http://39.135.19.169:18890/PLTV/88888888/224/3221226039//index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1971" tvg-name="DOX剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_juchang.png" group-title="DOX",#EXTINF-1 DOX剧场
+#EXTINF:-1 tvg-id="1971" tvg-name="DOX剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_juchang.png" group-title="DOX",DOX剧场
 http://39.135.19.169:18890/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1969" tvg-name="DOX新知" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_xinzhi.png" group-title="DOX",#EXTINF-1 DOX新知
+#EXTINF:-1 tvg-id="1969" tvg-name="DOX新知" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_xinzhi.png" group-title="DOX",DOX新知
 http://39.135.19.169:18890/PLTV/88888888/224/3221226014/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="DOX",#EXTINF-1 DOX新艺
+#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="DOX",DOX新艺
 http://39.135.19.169:18890/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="DOX",#EXTINF-1 DOX院线
+#EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="DOX",DOX院线
 http://39.135.19.169:18890/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="DOX",#EXTINF-1 DOX雅趣
+#EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="DOX",DOX雅趣
 http://39.135.19.169:18890/PLTV/88888888/224/3221226042/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="DOX",#EXTINF-1 DOX怡家
+#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="DOX",DOX怡家
 http://39.135.19.169:18890/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="DOX",#EXTINF-1 DOX英伦
+#EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="DOX",DOX英伦
 http://39.135.19.169:18890/PLTV/88888888/224/3221226045/1/index.m3u8?fmt=ts2hls
 
 
 #G+TV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="G+TV",#EXTINF-1 G+TV华语电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="G+TV",G+TV华语电影
 http://39.135.19.162:18890/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="G+TV",#EXTINF-1 G+TV海外佳片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="G+TV",G+TV海外佳片
 http://39.135.19.162:18890/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="G+TV",#EXTINF-1 G+TV经典剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="G+TV",G+TV经典剧场
 http://39.135.19.162:18890/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="G+TV",#EXTINF-1 G+TV都市剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="G+TV",G+TV都市剧场
 http://39.135.19.162:18890/PLTV/88888888/224/3221225783/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="G+TV",#EXTINF-1 G+TV谍战剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="G+TV",G+TV谍战剧场
 http://39.135.19.162:18890/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
 
 
