@@ -410,7 +410,8 @@ http://119.36.244.22/cache.ott.ystenlive.itv.cmvideo.cn:80//1000000002000019789/
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视2",CCTV-12蓝光3
 http://119.36.244.22/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6417486185316863297/1.m3u8?stbId=005301FF001589101611549359B92F26&channel-id=shvoolive&Contentid=6417486185316863297&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=6417486185316863297&owchid=shvoolive&owsid=9153671579531878340&AuthInfo=2TOfGIahP4HrGWrHbpJXVPo6e%2BHF%2BrVo6xQQtyKDSurAX3PB%2FnVIr3xix20cl8xPdgGi1rpRM1DYWZnyEDgQSmvEeryqwyIWUPNfICRzKqmuU3YFsCIaBI4jHMacn12g
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视2",CCTV-13蓝光3
-http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+#http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视2",CCTV-14蓝光3
 http://119.36.244.22/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5554452538079056392/1.m3u8?stbId=005301FF001589101611549359B92F26&channel-id=shvoolive&Contentid=5554452538079056392&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=5554452538079056392&owchid=shvoolive&owsid=1386521579531934459&AuthInfo=2TOfGIahP4HrGWrHbpJXVPo6e%2BHF%2BrVo6xQQtyKDSuraKH2KM768ZNQcj3PAdtOdSSlj5RtbM3onnzvUC8Txgj%2BRYROAJoRcjfZ4YOPHclFuVVM2CqA1FqqLFpU5t7y%2B
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视2",CCTV-15蓝光3
