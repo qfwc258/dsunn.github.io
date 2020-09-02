@@ -452,15 +452,37 @@ http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 http://192.154.103.74:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港台频道",中天新闻
 http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台频道",日本NHK华语
+
+#外国
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="https://static-s.aa-cdn.net/img/amazon/30600000516579/dbdb81e17aaf22b817a4b2af4fce5214?v=1" group-title="外国",Aljazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTX20IkMvYlbDMAltKmZVAcxyNkeXVAM5jwR2gZHrovTh0tsg_1&usqp=CAU" group-title="外国",SKY NEWS EXTRA
+http://skynewsau-live.akamaized.net:80/hls/live/2002691/skynewsau-extra3/master960x540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQggG7hN-oaaI2ePkXyvn5ezQv5Txg_JALeUKSXTjparz3pKgqu&usqp=CAU" group-title="外国",Australia channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbxJcI35QmglIgFrxqEgqRB4nZZwFSOn6ES0VnNza_U6AJeam4&usqp=CAU" group-title="外国",NBC
+http://161.0.157.50:80/PLTV/88888888/224/3221227040/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFBxVut_-sWyaiu8h0kGDpKM7hnoQI-CiztS7hT97tDxKcgA9v&usqp=CAU" group-title="外国",CBS 47
+http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXUcB_tNtVH2C9WS2lT_WPVPlD0a0sZB476pwN61jBt1B1cqEk&usqp=CAU" group-title="外国",CBS N
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSu0DhOkrsAsVgwODBraFa7A-zxYaAdt72_8ChoPSXTtAANXy6E&usqp=CAU" group-title="外国",US:CBN News
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="https://th.bing.com/th?id=OIP.nlZTiSDYA-ZWrYdShExbBQHaHa&pid=PersonalBing&rs=1" group-title="外国",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSu0DhOkrsAsVgwODBraFa7A-zxYaAdt72_8ChoPSXTtAANXy6E&usqp=CAU" group-title="外国",US:CBN News
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="https://th.bing.com/th?id=OIP.nlZTiSDYA-ZWrYdShExbBQHaHa&pid=PersonalBing&rs=1" group-title="外国",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外国",日本NHK华语
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台频道",日本NHK英语
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外国",日本NHK英语
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
-#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="港台频道",亚洲新闻
+#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="外国",亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台频道",CBS新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外国",CBS新闻
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="港台频道",bloomberg
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="外国",bloomberg
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
 
