@@ -294,6 +294,8 @@ http://223.110.247.161:6610/gitv/live1/G_KANGBA/G_KANGBA
 http://119.36.244.22/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=1000000004000011651&owchid=ystenlive&owsid=6721581571186720581&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0Qqlame2O8Id%2BgCUUdS4cJUD1ieqKIx8wFJ0pPdF5P8MGRzRrjFLuuRCIZ2D2ha%2Fr9iiM%2BAnSOfyc4s5zWrjzUdrEbf
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BestTV 4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕4K 31M2160HDR
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",KAKU少儿
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226177/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方购物
@@ -411,6 +413,8 @@ http://119.36.244.22/cache.ott.ystenlive.itv.cmvideo.cn:80//1000000002000019789/
 http://119.36.244.22/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6417486185316863297/1.m3u8?stbId=005301FF001589101611549359B92F26&channel-id=shvoolive&Contentid=6417486185316863297&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=6417486185316863297&owchid=shvoolive&owsid=9153671579531878340&AuthInfo=2TOfGIahP4HrGWrHbpJXVPo6e%2BHF%2BrVo6xQQtyKDSurAX3PB%2FnVIr3xix20cl8xPdgGi1rpRM1DYWZnyEDgQSmvEeryqwyIWUPNfICRzKqmuU3YFsCIaBI4jHMacn12g
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视2",CCTV-13蓝光3
 http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+#http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226159/1.m3u8
 #http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视2",CCTV-14蓝光3
 http://119.36.244.22/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5554452538079056392/1.m3u8?stbId=005301FF001589101611549359B92F26&channel-id=shvoolive&Contentid=5554452538079056392&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=5554452538079056392&owchid=shvoolive&owsid=1386521579531934459&AuthInfo=2TOfGIahP4HrGWrHbpJXVPo6e%2BHF%2BrVo6xQQtyKDSuraKH2KM768ZNQcj3PAdtOdSSlj5RtbM3onnzvUC8Txgj%2BRYROAJoRcjfZ4YOPHclFuVVM2CqA1FqqLFpU5t7y%2B
@@ -437,6 +441,7 @@ http://220.158.149.26:8180/TV00000000000000000066@HHZT;LIVE
 #http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台频道",凤凰资讯蓝光1
 http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港台频道",凤凰香港FHD
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港台频道",凤凰香港FHD(备1)
@@ -521,8 +526,6 @@ http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",CBN影院
 http://116.199.5.51:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=71&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv_CMSID=&amp;Fsv_otype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 新片放映厅
-http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd-virtuallive5100030975-75/index.m3u8?&encrypt=1
 
 
 #CIBN
@@ -681,36 +684,5 @@ http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212301
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱世界
 http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/01.m3u8
 
-
-#DOX
-#EXTINF:-1 tvg-id="1955" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="DOX",DOX映画
-http://39.135.19.169:18890/PLTV/88888888/224/3221226039//index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1971" tvg-name="DOX剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_juchang.png" group-title="DOX",DOX剧场
-http://39.135.19.169:18890/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1969" tvg-name="DOX新知" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_xinzhi.png" group-title="DOX",DOX新知
-http://39.135.19.169:18890/PLTV/88888888/224/3221226014/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="DOX",DOX新艺
-http://39.135.19.169:18890/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="DOX",DOX院线
-http://39.135.19.169:18890/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="110" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="DOX",DOX雅趣
-http://39.135.19.169:18890/PLTV/88888888/224/3221226042/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="DOX",DOX怡家
-http://39.135.19.169:18890/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="DOX",DOX英伦
-http://39.135.19.169:18890/PLTV/88888888/224/3221226045/1/index.m3u8?fmt=ts2hls
-
-
-#G+TV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="G+TV",G+TV华语电影
-http://39.135.19.162:18890/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="G+TV",G+TV海外佳片
-http://39.135.19.162:18890/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="G+TV",G+TV经典剧场
-http://39.135.19.162:18890/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="G+TV",G+TV都市剧场
-http://39.135.19.162:18890/PLTV/88888888/224/3221225783/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="G+TV",G+TV谍战剧场
-http://39.135.19.162:18890/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
 
 
