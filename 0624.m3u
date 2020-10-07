@@ -499,14 +499,19 @@ http://119.36.244.22/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/82301971
 http://119.36.244.22/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5841816227539527643/z.m3u8?authCode=07110409322147352675&stbId=005301FF001589101611549359B93B82&Contentid=5841816227539527643&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt&version=1.0&owaccmark=5841816227539527643&owchid=wasusyt&owsid=1431411579532174401&AuthInfo=2TOfGIahP4HrGWrHbpJXVB3TJIR2vriLvDYSdNB63hPyA9qk2%2BTKLoJATlqPnb0MXm7l%2FiHeo2whk7VLomWH7w5GNiHxzOX6JECr7x0TLTmTY895HMYgWz4jiaElB1nN
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 峨眉电影蓝光
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 黑莓动画蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 黑莓电竞蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
+http://121.31.30.91:8081/ysten-business/live/wmyx/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 黑莓电影蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+http://121.31.30.91:8081/ysten-business/live/jdianying/1.m3u8
+#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://pic.downk.cc/item/5e5652f46127cc0713d5e11c.png" group-title="影视",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="影视",CHC家庭影院2K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="影视",CHC高清电影2K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="影视",CHC动作电影2K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", KiD电影一台
 http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", KiD电影二台
@@ -675,5 +680,16 @@ http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212301
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱世界
 http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/01.m3u8
 
+#DOX
+#EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="DOX",DOX映画
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221226042/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="1969" tvg-name="DOX新知" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_xinzhi.png" group-title="DOX",DOX新知
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221226014/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="DOX",DOX新艺
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="DOX",DOX雅趣
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221226039//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="DOX",DOX怡家
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls
 
 
