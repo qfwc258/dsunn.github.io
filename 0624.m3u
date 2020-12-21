@@ -141,9 +141,11 @@ http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6032059
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海1", 生活时尚蓝光
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8538616372715313491/index.m3u8?channel-id=bestzb&Contentid=8538616372715313491&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=8538616372715313491&owchid=bestzb&owsid=5457861567734659356&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0QqlakS%2FOYtRGR5wcGJDIS9OeTlipH2OO8alDz%2F1TUrW3QAaMFdRScr5Z2333r7naICD73KmBnoU9%2B3A5Ot%2BJeysO4p
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海1", 欢笑剧场蓝光
-http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
+#http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海1", 纪实人文频道蓝光
-http://39.130.206.213:6410/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226174/index.m3u8
+#http://39.130.206.213:6410/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
 #http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海1", 极速汽车蓝光
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226152/3.m3u8
@@ -230,7 +232,8 @@ http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226176/
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="卫视",嘉佳卡通
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226178/3.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视蓝光1
-http://39.130.206.213:6410/gitv_live/BTV-1/BTV-1.m3u8
+http://39.134.168.91/PLTV/1/224/3221225526/index.m3u8
+#http://39.130.206.213:6410/gitv_live/BTV-1/BTV-1.m3u8
 #http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视蓝光1
 http://140.207.241.2:8080/live/program/live/tjwshd/4000000/mnf.m3u8
@@ -245,7 +248,8 @@ http://140.207.241.2:8080/live/program/live/zjwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视蓝光1
 http://140.207.241.2:8080/live/program/live/jswshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视蓝光1
-http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
+http://39.134.168.91/PLTV/1/224/3221225580/index.m3u8
+#http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视蓝光1
 http://140.207.241.2:8080/live/program/live/sdwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视蓝光1
@@ -262,31 +266,38 @@ http://140.207.241.2:8080/live/program/live/lnwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视蓝光1
 http://140.207.241.2:8080/live/program/live/hljwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视蓝光1
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=25&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+http://39.134.168.91/PLTV/1/224/3221225586/index.m3u8
+#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=25&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视蓝光1
 http://140.207.241.2:8080/live/program/live/jxwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视蓝光1
-http://39.130.206.213:6410/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8
+http://39.134.168.91/PLTV/1/224/3221225592/index.m3u8
+#http://39.130.206.213:6410/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8
 #http://112.50.243.8/PLTV/88888888/224/3221227006/1.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视蓝光1
-http://39.130.206.213:6410/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8
+http://39.134.168.91/PLTV/1/224/3221225576/index.m3u8
+#http://39.130.206.213:6410/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8
 #http://112.50.243.8/PLTV/88888888/224/3221225831/1.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视蓝光1
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
+http://39.134.168.91/PLTV/1/224/3221225640/index.m3u8
+#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
 #http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视蓝光1
-http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/henanstv/index.m3u8?IAS
+http://39.134.168.91/PLTV/1/224/3221225584/index.m3u8
+#http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/henanstv/index.m3u8?IAS
 #http://112.50.243.8/PLTV/88888888/224/3221225842/1.m3u8
 #http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=19&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视蓝光1
-http://39.130.206.213:6410/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=41&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#http://39.130.206.213:6410/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8
 #http://112.50.243.8/PLTV/88888888/224/3221226827/1.m3u8
-#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=41&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视超清1
-http://39.134.39.39/PLTV/88888888/224/3221226301/index.m3u8
+http://39.134.168.91/PLTV/1/224/3221225620/index.m3u8
+#http://39.134.39.39/PLTV/88888888/224/3221226301/index.m3u8
 #http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视超清1
-http://112.50.243.8/PLTV/88888888/224/3221225845/1.m3u8
+http://39.134.168.91/PLTV/1/224/3221225636/index.m3u8
+#http://112.50.243.8/PLTV/88888888/224/3221225845/1.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视超清1
 http://140.207.241.2:8080/live/program/live/qhws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视超清1
@@ -302,12 +313,15 @@ http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 #http://112.50.243.8/PLTV/88888888/224/3221225846/1.m3u8
 #http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视高清1
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+http://39.134.168.91/PLTV/1/224/3221225648/index.m3u8
+#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视高清1
-http://112.50.243.8/PLTV/88888888/224/3221225839/1.m3u8
+http://39.134.168.91/PLTV/1/224/3221225646/index.m3u8
+#http://112.50.243.8/PLTV/88888888/224/3221225839/1.m3u8
 #http://223.110.247.161:6610/gitv/live1/SXWS/SXWS
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视高清1
-http://39.130.215.156:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8
+http://39.134.168.91/PLTV/1/224/3221225598/index.m3u8
+#http://39.130.215.156:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8
 #http://140.207.241.2:8080/live/program/live/gxws/1300000/mnf.m3u8
 #http://112.50.243.8/PLTV/88888888/224/3221225836/1.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视高清1
